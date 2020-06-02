@@ -10,9 +10,10 @@ end
 puts subtraction 5,2
 
 def division(num1, num2)
+  return num1 / num2
 
 end
-
+puts division 10,2
 def multiplication(num1, num2)
   return num1 * num2
 
