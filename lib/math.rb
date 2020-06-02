@@ -21,6 +21,7 @@ end
 puts multiplication 2,2
 
 def modulo(num1, num2)
+  num1 % num2
 
 end
 
